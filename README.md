@@ -142,9 +142,9 @@ Este projeto foi desenvolvido para atender aos requisitos de um trabalho acadêm
 
 > Demonstração
 div align="center"
-img src="<img width="738" height="1600" alt="Image" src="https://github.com/user-attachments/assets/5b814fb0-0fcf-4900-87ea-1aeff099f53e" />" width="300px" /
-img src="<img width="738" height="1600" alt="Image" src="https://github.com/user-attachments/assets/9afac2fd-646f-4a05-95f9-b92af3fe51e2" />" width="300px" /
-img src="<img width="738" height="1600" alt="Image" src="https://github.com/user-attachments/assets/328dd486-c5e0-41ed-9b88-54ec88924187" />" width="300px" /
+img src="<img width="738" height="1600" alt="Image" src="https://github.com/user-attachments/assets/5b814fb0-0fcf-4900-87ea-1aeff099f53e" />" width="100px" /
+img src="<img width="738" height="1600" alt="Image" src="https://github.com/user-attachments/assets/9afac2fd-646f-4a05-95f9-b92af3fe51e2" />" width="100px" /
+img src="<img width="738" height="1600" alt="Image" src="https://github.com/user-attachments/assets/328dd486-c5e0-41ed-9b88-54ec88924187" />" width="100px" /
 
 
 
