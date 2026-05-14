@@ -141,14 +141,17 @@ Este projeto foi desenvolvido para atender aos requisitos de um trabalho acadêm
 ---
 
 > Demonstração
-div align="center"
-img src="<img width="738" height="1600" alt="Image" src="https://github.com/user-attachments/assets/5b814fb0-0fcf-4900-87ea-1aeff099f53e" />" width="100px" /
-img src="<img width="738" height="1600" alt="Image" src="https://github.com/user-attachments/assets/9afac2fd-646f-4a05-95f9-b92af3fe51e2" />" width="100px" /
-img src="<img width="738" height="1600" alt="Image" src="https://github.com/user-attachments/assets/328dd486-c5e0-41ed-9b88-54ec88924187" />" width="100px" /
-
-
-
-/div
+<img width="738" height="1600" alt="Image" src="https://github.com/user-attachments/assets/5b814fb0-0fcf-4900-87ea-1aeff099f53e" />
+<img width="738" height="1600" alt="Image" src="https://github.com/user-attachments/assets/9afac2fd-646f-4a05-95f9-b92af3fe51e2" />
+<img width="738" height="1600" alt="Image" src="https://github.com/user-attachments/assets/328dd486-c5e0-41ed-9b88-54ec88924187" />
+<img width="738" height="1600" alt="Image" src="https://github.com/user-attachments/assets/0edbbb24-e26a-47dd-9740-e2c540eb5d89" />
+<img width="738" height="1600" alt="Image" src="https://github.com/user-attachments/assets/782c2c89-9d0a-476c-b50c-c5a2bd753ee1" />
+<img width="738" height="1600" alt="Image" src="https://github.com/user-attachments/assets/457fa2fc-689d-433e-aa79-65cf530266cc" />
+<img width="1080" height="2340" alt="Image" src="https://github.com/user-attachments/assets/2b78358a-269c-49d7-a9b0-7e9ee8127aa2" />
+<img width="1080" height="2340" alt="Image" src="https://github.com/user-attachments/assets/c6202fd0-8272-40dc-ac42-08362c028e81" />
+<img width="738" height="1600" alt="Image" src="https://github.com/user-attachments/assets/44175c32-974e-4b8b-b82e-fa532cbde3cd" />
+<img width="738" height="1600" alt="Image" src="https://github.com/user-attachments/assets/f8ddf10b-0637-4d3c-8890-fae2a9189ac8" />
+<img width="738" height="1600" alt="Image" src="https://github.com/user-attachments/assets/47d45e64-b206-4530-8b7a-6581decbbb84" />
 
 ---
 
