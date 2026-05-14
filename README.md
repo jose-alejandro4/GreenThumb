@@ -42,7 +42,7 @@ src/
 (!) Clonar o repositório
 
 bash
-git clone (link do github) 
+git clone (https://github.com/jose-alejandro4/GreenThumb.git) 
 cd GreenThumb
 
 ---
