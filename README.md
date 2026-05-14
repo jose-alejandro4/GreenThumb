@@ -141,8 +141,9 @@ Este projeto foi desenvolvido para atender aos requisitos de um trabalho acadêm
 ---
 
 > Demonstração
-<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/2b78358a-269c-49d7-a9b0-7e9ee8127aa2" />1
-<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/457fa2fc-689d-433e-aa79-65cf530266cc" />2
+
+<img width="500" height="1100" alt="Image" src="https://github.com/user-attachments/assets/2b78358a-269c-49d7-a9b0-7e9ee8127aa2" />1
+<img width="500" height="1100" alt="Image" src="https://github.com/user-attachments/assets/457fa2fc-689d-433e-aa79-65cf530266cc" />2
 <img width="738" height="1600" alt="Image" src="https://github.com/user-attachments/assets/782c2c89-9d0a-476c-b50c-c5a2bd753ee1" />3
 <img width="738" height="1600" alt="Image" src="https://github.com/user-attachments/assets/0edbbb24-e26a-47dd-9740-e2c540eb5d89" />4
 <img width="738" height="1600" alt="Image" src="https://github.com/user-attachments/assets/328dd486-c5e0-41ed-9b88-54ec88924187" />5 
