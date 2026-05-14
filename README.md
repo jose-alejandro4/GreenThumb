@@ -30,10 +30,14 @@ O usuário pode navegar pelos produtos, visualizar detalhes, adicionar ao carrin
 > Estrutura do projeto
 
 src/
- ├── components/   # Componentes reutilizáveis (botões, cards)
+ ├── components/   # Componentes reutilizáveis (botões, cards) 
+ 
  ├── data/         # Dados das plantas e materiais
+ 
  ├── screens/      # Telas do aplicativo
+ 
  ├── services/     # Configuração do Firebase
+ 
  ├── styles/       # Estilos globais
 ---
 
