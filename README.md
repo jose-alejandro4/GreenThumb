@@ -47,6 +47,7 @@ src/
 
 bash
 git clone (https://github.com/jose-alejandro4/GreenThumb.git) 
+
 cd GreenThumb
 
 ---
