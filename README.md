@@ -4,6 +4,9 @@ Aplicativo mobile desenvolvido em *React Native* que simula uma loja de plantas 
 O usuário pode navegar pelos produtos, visualizar detalhes, adicionar ao carrinho e realizar compras.
 
 ---
+Apresentação no YouTube 
+Link:https://youtu.be/w-1yX0eU11g?si=3E3IwUEnkDbaJRwM
+
 
 - Funcionalidades
 
